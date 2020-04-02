@@ -4,11 +4,11 @@ c't 14/2018, S. 136, apoi@ct.de
 
 ## Projektstruktur
 
-| Datei         | Beschreibung      |
-| --------------|-------------------|
-| katzensolo.py | Katzen-Modul      |
-| main.py       | Spiel-Skript      |
-| katze.png     | Katzen-Spielfigur | 
+| Datei                                                                          | Beschreibung      |
+| -------------------------------------------------------------------------------|-------------------|
+| [katzensolo.py](https://github.com/pinae/Knaeuljagd/blob/master/katzensolo.py) | Katzen-Modul      |
+| [main.py](https://github.com/pinae/Knaeuljagd/blob/master/main.py)             | Spiel-Skript      |
+| [katze.png](https://github.com/pinae/Knaeuljagd/blob/master/katze.png)         | Katzen-Spielfigur | 
 
 ## Intsallation und Abhängigkeiten
 
