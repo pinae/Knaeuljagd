@@ -1,6 +1,8 @@
 # Fang das Wollknäuel
 ## Spiele programmieren mit Python und Pygame
-c't 14/2018, S. 136, apoi@ct.de
+c't 14/2018, S. 136, apoi@ct.de 
+
+Fragen zum Repository an pmk@ct.de
 
 ## Projektstruktur
 
